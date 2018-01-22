@@ -1,0 +1,53 @@
+body {
+		padding: 30px;
+		border: solid black;
+		background-size: 100%
+}
+header {
+		background-color: #408080;
+		text-align: right;
+		padding: 10px;
+		font-size: 60px
+}
+#Val {
+		background-image: url(250.jpg);
+		padding: 10px;
+		text-align: center;
+		color: red;
+		font-size: 30px;
+		background-repeat: no-repeat;
+}
+#Val.img {
+		
+}
+#Wewe {
+		color: black;
+		background-color: #999999;
+		text-align: center;
+		font-size: 30px;
+		padding: 40px
+}
+
+a {
+		color: red
+}
+
+#Tony {
+		text-align: center;
+		float: left;
+		color: #0080FF;
+		background-color: #FF5733;
+		padding: 30px;
+		}
+#Sitony {
+		text-align: center;
+		float: right;
+		color: #00FF00;
+		background-color: #008080;
+		padding: 30px;
+}
+#kelele {
+		text-align: center;
+		padding: 1px;
+		background-color: #566573;
+}
